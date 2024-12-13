@@ -7,3 +7,7 @@ Este repositório foi criado para:
 - Servir como um material de referência para estudos de matemática.
 - Armazenar resumos, exercícios resolvidos e simulações gráficas.
 - Facilitar a organização de tópicos de matemática.
+
+## Capítulo de Cálculo diferencial e Integral
+- [ ] ...
+      
